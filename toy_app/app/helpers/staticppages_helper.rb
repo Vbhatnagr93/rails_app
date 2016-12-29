@@ -1,0 +1,2 @@
+module StaticppagesHelper
+end
